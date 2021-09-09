@@ -9,3 +9,5 @@ ZCZC W01 60 L02 ZOOM meetings related
 ZCZC W01 30 L11 Assignment #01
 ZCZC W01 30 L12 Assignment #02
 ZCZC W01 163 L23 Linux CLI including tar, etc.
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 30 L15 Assignment #05
