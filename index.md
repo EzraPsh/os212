@@ -1,1 +1,1 @@
-| [Home](.) | [Logs](TXT/mylog.txt) | [Links](/LINKS/) |
+| [Home](.) | [Logs](TXT/mylog.txt) | [Links](LINKS/) |
