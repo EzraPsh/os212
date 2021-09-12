@@ -6,5 +6,11 @@ ZCZC W00 05 L00 General, etc.
 ZCZC W00 15 L06 References/Books/Documents/GSGS related
 ZCZC W00 109 L02 ZOOM meetings related
 ZCZC W01 60 L02 ZOOM meetings related
-ZCZC W01 190 L11 Assignment #01
+ZCZC W01 30 L11 Assignment #01
 ZCZC W01 163 L23 Linux CLI including tar, etc.
+ZCZC W01 30 L12 Assignment #02
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 30 L15 Assignment #05
+ZCZC W01 30 L16 Assignment #06
+ZCZC W01 30 L13 Assignment #03
+ZCZC W01 10 L17 Assignment #07
