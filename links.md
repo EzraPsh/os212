@@ -14,3 +14,7 @@ Link-link yang berguna :
  
 3. [How to Write and Run a C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
   Cara mengompile program C. Saya mark karena sering lupa.
+  
+4. [C development on Linux](https://linuxconfig.org/c-development-on-linux-introduction-i)<br>
+  Penjelasan pemograman di C. Lengkap menjelaskan semua aspek di C.
+  
