@@ -11,3 +11,6 @@ Link-link yang berguna :
 
 2. [Guide for vi](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
   Dasar-dasar dari penggunaan vi. Berguna karena vi adalah editor yang saya gunakan
+ 
+3. [How to Write and Run a C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
+  Cara mengompile program C. Saya mark karena sering lupa.
