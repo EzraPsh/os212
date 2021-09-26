@@ -11,16 +11,15 @@ Link-link yang berguna :
 
 2. [Guide for vi](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
   Dasar-dasar dari penggunaan vi. Berguna karena vi adalah editor yang saya gunakan
-  
- ## Week 02
  
-1. [How to Write and Run a C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
+3. [How to Write and Run a C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
   Cara mengompile program C. Saya mark karena sering lupa.
   
-2. [C development on Linux](https://linuxconfig.org/c-development-on-linux-introduction-i)<br>
+4. [C development on Linux](https://linuxconfig.org/c-development-on-linux-introduction-i)<br>
   Penjelasan pemograman di C. Lengkap menjelaskan semua aspek di C.
-  
-## Week 03
 
-1. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+5. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
   Penjelasan singkat mengenai file allocation. Memiliki kurang lebih penjelasan tentang file allocation seperti di slide.
+
+6. [General overview of the Linux file system](https://tldp.org/LDP/intro-linux/html/sect_03_01.html)<br>
+  Penjelasan umum untuk file system di linux. Membuat saya mengerti lebih banyak mengenai file system linux.
