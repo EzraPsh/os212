@@ -23,3 +23,6 @@ Link-link yang berguna :
 
 6. [General overview of the Linux file system](https://tldp.org/LDP/intro-linux/html/sect_03_01.html)<br>
   Penjelasan umum untuk file system di linux. Membuat saya mengerti lebih banyak mengenai file system linux.
+
+7. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+  Penjelasan Memory Management. Singkat dan mudah dimengerti
