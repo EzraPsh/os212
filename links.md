@@ -26,3 +26,6 @@ Link-link yang berguna :
 
 7. [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
   Penjelasan Memory Management. Singkat dan mudah dimengerti
+
+8. [Virtual Memory Address Translation](https://www.d.umn.edu/~gshute/os/address-translation.xhtml)
+  Penjelasan mengenai virtual address. Penjelasannya singkat tetapi menurut saya mencakup materi cukup baik.
