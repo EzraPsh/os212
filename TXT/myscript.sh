@@ -18,8 +18,8 @@ REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
-[ -d /home/ezrapsh/RESULT/ ] || mkdir -p /home/ezrapsh/RESULT/
-pushd /home/ezrapsh/RESULT/
+[ -d /home/EzraPsh/RESULT/ ] || mkdir -p /home/EzraPsh/RESULT/
+pushd /home/EzraPsh/RESULT/
 for II in W?? ; do
     [ -d $II ] || continue
     TARFILE=my$II.tar.bz2
@@ -32,7 +32,7 @@ for II in W?? ; do
 done
 popd
 
-for II in /home/ezrapsh/RESULT/myW*.tar.bz2.asc ; do
+for II in /home/EzraPsh/RESULT/myW*.tar.bz2.asc ; do
    echo "Check and move $II..."
    [ -f $II ] && mv -f $II .
 done
