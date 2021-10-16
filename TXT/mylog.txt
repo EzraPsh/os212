@@ -25,4 +25,6 @@ ZCZC W04 30 L08 Assignments for week 4
 ZCZC W04 10 L06 References/Books/Documents/GSGS related
 ZCZC W05 100 L08 Assignments for week 5
 ZCZC W05 60 L06 References/Books/Documents/GSGS related
-ZCZC W05 120 L02 ZOOM meetings 
+ZCZC W05 120 L02 ZOOM meetings
+ZCZC W06 60 L02 ZOOM meetings
+ZCZC W06 30 L08 Assignments for week 6 
