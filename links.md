@@ -29,3 +29,6 @@ Link-link yang berguna :
 
 8. [Virtual Memory Address Translation](https://www.d.umn.edu/~gshute/os/address-translation.xhtml)<br>
   Penjelasan mengenai virtual address. Penjelasannya singkat tetapi menurut saya mencakup materi cukup baik.
+
+9. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+  Penjelasan dan contoh fork(). Mudah dimengerti
