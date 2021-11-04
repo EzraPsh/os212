@@ -28,4 +28,7 @@ ZCZC W05 60 L06 References/Books/Documents/GSGS related
 ZCZC W05 120 L02 ZOOM meetings
 ZCZC W06 60 L02 ZOOM meetings
 ZCZC W06 30 L09 Assignments for week 6
-ZCZC W06 20 L00 Last check and push for week 6 
+ZCZC W06 20 L00 Last check and push for week 6
+ZCZC W07 90 L02 ZOOM meetings
+ZCZC W07 40 L09 Assignments for week 7
+ 
