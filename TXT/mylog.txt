@@ -30,5 +30,5 @@ ZCZC W06 60 L02 ZOOM meetings
 ZCZC W06 30 L09 Assignments for week 6
 ZCZC W06 20 L00 Last check and push for week 6
 ZCZC W07 90 L02 ZOOM meetings
-ZCZC W07 40 L09 Assignments for week 7
+ZCZC W07 70 L09 Assignments for week 7
  
