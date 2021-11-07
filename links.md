@@ -32,3 +32,7 @@ Link-link yang berguna :
 
 9. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
   Penjelasan dan contoh fork(). Mudah dimengerti
+
+10. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+  Introduksi simpel ke proses Synchronization. Memuat semua informasi utama mengenai Synchronization
+
